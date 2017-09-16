@@ -18,7 +18,7 @@ Let's all build it together.
 # Mission
 *How we intend to make our vision real*
 
-Code for America uses the principles and practices of the digital age to improve how government serves the American public, and how the public improves government.
+Code for America uses the principles and practices of the digital age to improve how America is governed.
 
 1. **To inspire change**
 To inspire public servants, people from the technology sector, and community organizers to create change by demonstrating that government services can be simple, respectful, and easy to use.
