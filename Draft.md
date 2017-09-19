@@ -38,7 +38,7 @@ Connecting and convening people from inside and outside government; and from all
 * **Fewer people go to jail** by safely reducing unnecessary incarceration
 * **More people get work** by increasing employment among those who are the hardest to employ
 * **Digital becomes a core competency of government** by employing people with digital skillsets.
-
+* **Open data becomes default** and more U.S. cities pass open data policies that restore public trust in government.
 
 # Our values
 *what we are like as an organization*
@@ -61,5 +61,6 @@ Inform iterations with data about user behavior. Evaluate programs based on data
 * **Impact not ideology.**
 Government that works for all people doesn’t belong to one party or ideology. We welcome all political and social views that respect the principle that government should serve all people equally.
 * **Shape the market, don't capture the market.** Government that works for all requires the vendor ecosystem to change to become more responsive to user needs. We have the potential to create the biggest change when our projects seek to shape, rather than capture the market for government technology.
+* **Start locally, scale globallly** - Open-source your work and make it easy to reproduce at scale. 
 
 *Laurenellen McCann first spoke about building with, not for at the 2014 Code for America Summit.
