@@ -64,5 +64,7 @@ Government that works for all requires the vendor ecosystem to change to become 
 * **Non-partisan, but not neutral.**
 We are an alliance of non-partisan groups, but that non-partisanship does not imply neutrality. This community has a vision for what government should be and will work to bring that vision into reality.
 
+* **Fairness for all.**
+Our country is founded on a document meant to "secure the blessings of liberty to ourselves and our posterity." Code for America must thus make decisions that are fair and just for ourselves and those who might be affected by our work in the future.
 
 *Laurenellen McCann first spoke about building with, not for at the 2014 Code for America Summit.
